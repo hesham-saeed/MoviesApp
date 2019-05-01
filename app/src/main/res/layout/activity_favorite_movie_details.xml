@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".FavoriteMovieDetailsActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_favorite_details_poster"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:scaleType="fitXY"
+            android:layout_marginBottom="@dimen/margin_xlarge"
+            />
+
+        <TextView
+            android:id="@+id/tv_favorite_details_duration"
+            style="@style/StyleFour"
+            android:layout_below="@id/iv_favorite_details_poster"
+            android:layout_marginEnd="@dimen/margin_xxlarge"
+            android:textAlignment="textEnd" />
+
+        <TextView
+            android:id="@+id/tv_favorite_details_year"
+            style="@style/StyleFour"
+            android:layout_below="@id/iv_favorite_details_poster"
+            android:layout_marginStart="@dimen/margin_xxlarge" />
+
+
+        <TextView
+            android:id="@+id/tv_favorite_details_rating"
+            style="@style/StyleFour"
+            android:layout_below="@id/iv_favorite_details_poster"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/tv_favorite_details_plot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_favorite_details_duration"
+            android:padding="@dimen/padding_xlarge"
+            android:textAlignment="center"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:textStyle="italic|bold" />
+    </RelativeLayout>
+
+
+</ScrollView>

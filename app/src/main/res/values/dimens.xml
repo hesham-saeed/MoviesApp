@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">12dp</dimen>
+    <dimen name="margin_xlarge">16dp</dimen>
+    <dimen name="margin_xxlarge">32dp</dimen>
+
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">12dp</dimen>
+    <dimen name="padding_xlarge">16dp</dimen>
+    <dimen name="padding_xxlarge">32dp</dimen>
+
+    <dimen name="text_sz_small">12sp</dimen>
+    <dimen name="text_sz_medium">14sp</dimen>
+    <dimen name="text_sz_large">18sp</dimen>
+    <dimen name="text_sz_xlarge">22sp</dimen>
+    <dimen name="text_sz_xxlarge">32sp</dimen>
+
+    <dimen name="line">1dp</dimen>
+</resources>

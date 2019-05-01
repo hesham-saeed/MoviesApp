@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="title_top_rated">Top rated</string>
+    <string name="title_popular">Popular</string>
+    <string name="movie_poster">MoviePoster</string>
+    <string name="rating_max">%1$s/10</string>
+    <string name="trailers">Trailers:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="mark_as_favorite">MARK AS FAVORITE</string>
+    <string name="id">TAG_ID</string>
+    <string name="position">TAG_POSITION</string>
+    <string name="location">TAG_LOCATION</string>
+    <string name="play_button">Play Button</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_reviews_default_message">No reviews yet</string>
+    <string name="no_trailers_default_message">No trailers for this movie</string>
+    <string name="no_favorite_movies_yet">No favorite movies yet</string>
+    <string name="movie_details">Movie Details</string>
+</resources>
