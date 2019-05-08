@@ -3,5 +3,4 @@ This is the second project in Udacity's Android Developer Nanodegree. It's a clo
 
 # Screenshots
 <img src="/images/PopularMovies.png" width="250"/>        <img src="/images/MovieDetails1.png" width="250"/>
-<img src="/images/MovieDetails2.png" width="250" style="margin:20px"/>        
-<img src="/images/FavoriteMovies.png" width="250"/> <img src="/images/FavoriteMoviesLandscape.png" alignt="bottom" width="500"/>
+<img src="/images/MovieDetails2.png" width="250" style="margin:20px"/>   <img src="/images/FavoriteMoviesLandscape.png" alignt="bottom" width="500"/>
